@@ -1,0 +1,5 @@
+{
+  "apiUrl": "${api_url}",
+  "fdUrl":  "${auth_url}",
+  "secret": "${api_key}"
+}
